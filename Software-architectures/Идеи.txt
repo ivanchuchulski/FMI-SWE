@@ -1,0 +1,10 @@
+	? Update Manager-a да разпраща upgrade-и към приложението
+	? структура на процесите : 
+		#нагласяне на конфигурационни параметри от администраторите
+			WebSite -> Server -> Computation -> Bicycle
+		#админ/наблюдател влиза в User Manager, за да види информация за историята потребител си гледа
+			Web Site -> User Manager -> Web Site
+	? нещо от Server-а към User Manager
+
+
+
